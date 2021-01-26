@@ -1,0 +1,74 @@
+.black {
+color: #000000;
+text-shadow: 0px 0px 7px #101010;
+}
+
+.red {
+color: #FF0000;
+text-shadow: 0px 0px 7px #FF0000;
+}
+
+.cyan {
+color: #11c4ff;
+text-shadow: 0px 0px 7px #b1ecff;
+}
+
+.orange {
+color: #fe5832;
+text-shadow: 0px 0px 7px #ffb9a9;
+}
+
+.green {
+color: #48a429;
+text-shadow: 0px 0px 7px #449926;
+}
+
+.dark_pink {
+color: #ff78a8;
+text-shadow: 0px 0px 7px #ffc1d7;
+}
+
+.yellow {
+color: #ffcf0d;
+text-shadow: 0px 0px 7px #fff1bb;
+}
+
+.cyanide {
+color: #00e5ff;
+text-shadow: 0px 0px 7px #4cffa9;
+}
+
+.white {
+color: #ffffff;
+text-shadow: 0px 0px 7px #000000;
+}
+
+.light_pink {
+color: #FF00FF;
+text-shadow: 0px 0px 7px #ffffff;
+}
+
+.light_green {
+color: #00CC00;
+text-shadow: 0px 0px 7px #00FF00;
+}
+
+.gray {
+color: #787878;
+text-shadow: 0px 0px 7px #ffffff;
+}
+
+.purple {
+color: #000099;
+text-shadow: 0px 0px 7px #FF0099;
+}
+
+.pink {
+color: #FF00CC;
+text-shadow: 0px 0px 7px #FF66FF;
+}
+
+.sea {
+color: #00FFFF;
+text-shadow: 0px 0px 7px #0000FF;
+}
